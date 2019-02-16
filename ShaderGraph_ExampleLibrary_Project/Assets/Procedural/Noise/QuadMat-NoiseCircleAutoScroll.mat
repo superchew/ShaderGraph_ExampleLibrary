@@ -4,8 +4,9 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: QuadMat-NoiseCircleAutoScroll
   m_Shader: {fileID: 4800000, guid: 606d6ca4d287147feb3c124be8877954, type: 3}
   m_ShaderKeywords: 
@@ -22,6 +23,6 @@ Material:
     - Vector1_16AA8EF7: 300
     - Vector1_8141FB1: 0.1
     m_Colors:
-    - Color_4A89028: {r: 0.46162653, g: 1, b: 0.25943395, a: 0}
-    - Color_6D4C2A45: {r: 0.13756618, g: 0.5, b: 0, a: 0}
+    - Color_4A89028: {r: 1, g: 0.3444307, b: 0.2588235, a: 0}
+    - Color_6D4C2A45: {r: 0.5019608, g: 0, b: 0.005809111, a: 0}
     - Vector2_ACDA2E07: {r: 0.1, g: 0.1, b: 0, a: 0}

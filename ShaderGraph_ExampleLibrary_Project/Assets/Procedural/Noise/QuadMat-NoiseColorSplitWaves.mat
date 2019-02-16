@@ -4,8 +4,9 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: QuadMat-NoiseColorSplitWaves
   m_Shader: {fileID: 4800000, guid: aff707f94665a43118ab7d56a23410bd, type: 3}
   m_ShaderKeywords: 
@@ -29,7 +30,7 @@ Material:
     - Vector1_E1B1B466: 2
     - Vector1_EDDCAE8B: 2
     m_Colors:
-    - Color_4A89028: {r: 0.46162653, g: 1, b: 0.25943395, a: 0}
+    - Color_4A89028: {r: 0.9150943, g: 0.032213703, b: 0.004316493, a: 0}
     - Color_6D4C2A45: {r: 0.13756618, g: 0.5, b: 0, a: 0}
     - Color_B43A8E17: {r: 0, g: 0.8078432, b: 0.95294124, a: 0}
     - Color_E3C41406: {r: 0, g: 0.2392157, b: 1, a: 0}

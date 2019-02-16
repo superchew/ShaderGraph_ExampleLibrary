@@ -4,8 +4,9 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: QuadMat-VoronoiNoiseAuto
   m_Shader: {fileID: 4800000, guid: c2842612ce8884c1a969e222fde55d54, type: 3}
   m_ShaderKeywords: 
@@ -60,8 +61,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Vector1_23CB94AC: 2
-    - Vector1_4DD5616C: 10
-    - Vector1_EEAC1EF6: 5
+    - Vector1_4DD5616C: 5
+    - Vector1_EEAC1EF6: 2.9
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -83,8 +84,8 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - Color_7899BC71: {r: 0.13756618, g: 0.5, b: 0, a: 0}
-    - Color_877F4A9A: {r: 0.46162653, g: 1, b: 0.25943395, a: 0}
+    - Color_7899BC71: {r: 0.25943398, g: 0.8141616, b: 1, a: 0}
+    - Color_877F4A9A: {r: 0.51587635, g: 0, b: 0.9339623, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
